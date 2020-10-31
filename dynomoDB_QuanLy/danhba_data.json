@@ -1,0 +1,37 @@
+[
+    {
+        "MaDanhBa":"LoiNghia",
+        "TrangThai":"Đã Chấp Nhận",
+        "TenDN":"Loi",
+        "TenKhach":"Nghia",
+        "BietDanh":"Hoang Nghia"
+    },
+    {
+        "MaDanhBa":"NghiaLoi",
+        "TrangThai":"Đã Chấp Nhận",
+        "TenDN":"Nghia",
+        "TenKhach":"Loi",
+        "BietDanh":"Tạ Đức Lợi" 
+    },
+    {
+        "MaDanhBa":"LoiDuong",
+        "TrangThai":"Đã Chấp Nhận",
+        "TenDN":"Loi",
+        "TenKhach":"Duong",
+        "BietDanh":"Minh Duong" 
+    },
+    {
+        "MaDanhBa":"DuongLoi",
+        "TrangThai":"Đã Chấp Nhận",
+        "TenDN":"Duong",
+        "TenKhach":"Loi",
+        "BietDanh":"Tạ Đức Lợi" 
+    },
+    {
+        "MaDanhBa":"LoiBinh",
+        "TrangThai":"Chưa Chấp Nhận",
+        "TenDN":"Loi",
+        "TenKhach":"Binh",
+        "BietDanh":"Van Binh"  
+    }
+]
